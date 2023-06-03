@@ -1,8 +1,4 @@
-# Online Exam Form Submission v1.0 has SQL injection
-
 BUG_Author：HaoL
-
-Website source address: https://www.sourcecodester.com/php/14485/online-exam-form-submission-phpmysql-full-source-code-2020.html
 
 Vulnerability File: /examformsubmission/admin/update_s6.php
 
